@@ -1,16 +1,12 @@
-## Hi there 👋
+Hi, I'm Shivam 👋
+Computer Science student at FH Technikum Wien (Vienna), focused on AI, automation and full-stack development. Looking for an internship abroad from February to May 2027.
 
-<!--
-**Sh1vam-b/Sh1vam-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working on
+GAIN-Radar – an AI study assistant that answers students' questions strictly from lecture materials, with PDF and page citations. Agentic RAG pipeline (Python, FastAPI, LangChain, GPT-4o mini, Pinecone), Angular front end, evaluated with RAGAS. (University-internal repository – demo on request.)
+Public projects
+Sepolia dApps – small Ethereum testnet web apps with ethers.js and MetaMask (block height, ERC-20 balance, token transfer)
+Tech
+Python · C# · TypeScript · C/C++ · SQL · FastAPI · Angular · LangChain · RAG · Pinecone · Git
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+LinkedIn · shivam.bhatt@outlook.de
