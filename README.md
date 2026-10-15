@@ -1,4 +1,4 @@
-Hi, I'm Shivam 👋
+Hi, I'm Shivam
 Computer Science student at FH Technikum Wien (Vienna), focused on AI, automation and full-stack development. Looking for an internship abroad from February to May 2027.
 
 What I'm working on
