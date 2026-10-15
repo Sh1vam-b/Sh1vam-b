@@ -6,7 +6,7 @@ GAIN-Radar – an AI study assistant that answers students' questions strictly f
 Public projects
 Sepolia dApps – small Ethereum testnet web apps with ethers.js and MetaMask (block height, ERC-20 balance, token transfer)
 Tech
-Python · C# · TypeScript · C/C++ · SQL · FastAPI · Angular · LangChain · RAG · Pinecone · Git
+Python · C# · TypeScript · C/C++ ·ASP.NET Core · EF Core · SQL · FastAPI · Angular · LangChain · RAG · Pinecone · Git
 
 Contact
 LinkedIn · shivam.bhatt@outlook.de
